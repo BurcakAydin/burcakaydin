@@ -1,10 +1,10 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
 
 :root {
-  --color1: rgb(34, 7, 91);
+  --color1: rgb(49, 23, 105);
   --color2: rgb(98, 61, 218);
   --color3: rgb(150, 161, 235);
-  --color4: rgb(128, 14, 137);
+  --color4: rgb(123, 34, 130);
 }
 
 * {
